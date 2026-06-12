@@ -1,10 +1,10 @@
  {
-    "serverstatus":"true",
+    "serverstatus":"false",
     "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"Wait We Are Working On a new Update ! Galvnic Server..",
     "opentime":" Wait For Some Time ⚡",
-    "libs":" put your link here ",
+    "libs":"https://github.com/trustheroh/PAPA/raw/refs/heads/main/libGALVNIC.zip",
     "notice_title":"💎♥️",
     "notice_body":"GALVNIC SERVICE SHOT CIRKIT"
 }
